@@ -8,7 +8,7 @@ A highly interactive, Star Wars-inspired 3D portfolio showcasing my skills, proj
 
 - **Frontend Framework**: [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
 - **3D Graphics**: [Three.js](https://threejs.org/) & [React-Three-Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
-- **UI Styling**: [Styled Components](https://styled-components.com/) & [Tailwind CSS](https://tailwindcss.com/) (optional)
+- **UI Styling**: [Styled Components](https://styled-components.com/) & [Tailwind CSS](https://tailwindcss.com/)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
 - **Sound Effects**: [Howler.js](https://howlerjs.com/)
 - **Routing**: [React Router](https://reactrouter.com/)
@@ -56,8 +56,7 @@ npm run dev
 ```
 Open http://localhost:3000 to view the portfolio in the browser.
 
-✨ Key Features:
-
+✨ Key Features
 3D Interactive Experience: Explore different sections of my portfolio through Star Wars-themed 3D environments.
 Responsive Design: Built for an immersive experience on both desktop and mobile.
 Sound Effects: Enjoy character sounds and ambient effects with Howler.js.
